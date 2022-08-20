@@ -1,6 +1,6 @@
 Here we have a static product web page with using :
 
-🔴 Html, Css, Javascript <br/>
+🔴 Html - Css - Javascript <br/>
 🔴 Responsive Design <br/>
 🔴 Flexbox <br/>
 
